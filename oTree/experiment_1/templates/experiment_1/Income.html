@@ -1,0 +1,22 @@
+{% extends "global/Page.html" %}
+{% load otree %}
+
+{% block title %}
+    Income:
+{% endblock %}
+
+{% block content %}
+    This question refers to the person in this picture: <br />
+
+    <br />
+    <img class="resize" src="{% static "experiment_1/1_fat.jpg" %}" width=30% height=30% /> <br />
+    <br />
+
+    Suppose you would ask the same question to 10 people in your city/village. <br />
+    How many people would say that this person is rich? Please provide your best guess.
+
+    {% formfields %}
+
+    {% next_button %}
+
+{% endblock %}

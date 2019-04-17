@@ -1,0 +1,16 @@
+{% extends "global/Page.html" %}
+{% load otree %}
+
+{% block title %}
+    Do you have any comment on the survey?
+{% endblock %}
+
+{% block content %}
+    Please write it here:
+
+    {% formfields %}
+
+    {% next_button %}
+
+{% endblock %}
+

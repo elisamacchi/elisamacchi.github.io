@@ -1,0 +1,28 @@
+{% extends "global/Page.html" %}
+{% load otree %}
+
+{% block title %}
+    Please, answer to this short demographic survey:
+{% endblock %}
+
+{% block content %}
+
+    {% formfield player.age label="How old are you in years?" %}
+
+    {% formfield player.gender label="What sex were you assigned at birth?" %}
+
+    {% formfield player.income label="What is your monthly income in dollars?" %}
+
+    {% formfield player.partnerincome label="What is your partner's monthly income in dollars (if applicable)?" %}
+
+    {% formfield player.bodymass label="bodymass" %}
+
+    {% formfield player.idealbodymass label="ideal bodymass" %}
+
+    {% formfield player.height label="How tall are you in CM?" %}
+
+    {% formfield player.weight label="What is your weight in KG?" %}
+
+    {% next_button %}
+
+{% endblock %}
