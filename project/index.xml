@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Elisa Macchi</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>European Graduate Student Mental Health Study</title>
+      <link>/project/p2_mental-health/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/p2_mental-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Worth your weight? Experimental evidence on the benefits of obesity in low-income countries.</title>
+      <link>/project/p1_job-market-paper/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/p1_job-market-paper/</guid>
+      <description>&lt;p&gt;ABSTRACT: In low-resource settings, where asymmetric information is widespread and verification technologiesare lacking, visible status goods may be exploited as cheap wealth screening devices. Obesity
+is visible, and in most low- income countries has the characteristics of a status good. In this paper,
+I test experimentally whether obesity has monetary benefits because it is exploited as a signal of
+wealth. To explore benefits I focus on credit markets. I estimate the causal effect of obesity by
+randomly assigning body mass using photo-morphed pictures in loan applications. The setting is
+Kampala, Uganda. In a field experiment with 124 financial institutions, I show that going from normal
+weight to obese improves access to credit as much as increasing one’s income by 60 percent. I
+pinpoint the mechanism by showing that reducing asymmetric information reduces obesity benefits.
+In terms of welfare consequences, a model of credit discrimination suggests that loan officers overrespond to obesity as compared to an unbiased discrimination benchmark. Further experimental
+evidence shows that lay people anticipate and overestimate obesity benefits, leading to additional
+demand distortions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EU transfers and euroscepticism: can&#39;t buy me love?</title>
+      <link>/project/p3_bmm-buy-me-love/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/p3_bmm-buy-me-love/</guid>
+      <description>&lt;p&gt;ABSTRACT: The future of an institution, such as the European Union, ultimately depends on people’s
+support. This paper investigates whether EU redistributive policies have improved
+public attitudes towards European integration, both in terms of public opinion and political
+preferences. We focus on Cohesion Policy funds, whose allocation allows us to single out
+these effects by means of a regression discontinuity approach. The results show that EU
+transfers have mitigated the rise of Eurosceptical attitudes and reduced political consensus
+for anti-EU parties. The effects are homogeneous across different socio-economic groups,
+including the most disadvantaged ones. The improvement in public support for the EU does
+not appear to be exclusively a spillover of the positive economic effect of funding; we show
+evidence suggesting the existence of a &amp;lsquo;reciprocity-effect&amp;rsquo; channel, i.e. citizens in recipient
+regions recognize the beneficial role of the EU as the source of funding.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
