@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Other Research | Elisa Macchi</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Other Research</description>
+    <title>ongoing research | Elisa Macchi</title>
+    <link>/tag/ongoing-research/</link>
+      <atom:link href="/tag/ongoing-research/index.xml" rel="self" type="application/rss+xml" />
+    <description>ongoing research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Other Research</title>
-      <link>/publication/</link>
+      <title>ongoing research</title>
+      <link>/tag/ongoing-research/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/job-market-paper/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
       <guid>/publication/job-market-paper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EU transfers and Euroscepticism: can’t buy me love?</title>
-      <link>/publication/bmm_cant_buy_me_love/</link>
-      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/bmm_cant_buy_me_love/</guid>
       <description></description>
     </item>
     
