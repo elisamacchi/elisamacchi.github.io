@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ongoings | Elisa Macchi</title>
-    <link>/ongoing/</link>
-      <atom:link href="/ongoing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elisamacchi.github.io/ongoing/</link>
+      <atom:link href="https://elisamacchi.github.io/ongoing/index.xml" rel="self" type="application/rss+xml" />
     <description>Ongoings</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://elisamacchi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Ongoings</title>
-      <link>/ongoing/</link>
+      <link>https://elisamacchi.github.io/ongoing/</link>
     </image>
     
     <item>
       <title>European Graduate Student Mental Health Study</title>
-      <link>/ongoing/econ-mental-health/</link>
+      <link>https://elisamacchi.github.io/ongoing/econ-mental-health/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/ongoing/econ-mental-health/</guid>
+      <guid>https://elisamacchi.github.io/ongoing/econ-mental-health/</guid>
       <description></description>
     </item>
     
