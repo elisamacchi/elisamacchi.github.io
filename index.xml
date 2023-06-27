@@ -77,18 +77,26 @@
     </item>
     
     <item>
-      <title>The State of Mental Health in European Economics Departments</title>
-      <link>https://elisamacchi.github.io/publication/econ-mental-health/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://elisamacchi.github.io/publication/econ-mental-health/</guid>
+      <title>Work Rather than Just Cash: Informal Redistribution among Employers and Workers in Kampala, Uganda.</title>
+      <link>https://elisamacchi.github.io/publication/norms-productivity-tech/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://elisamacchi.github.io/publication/norms-productivity-tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Worth your weight: Experimental evidence on the benefits of obesity in low-income countries.</title>
       <link>https://elisamacchi.github.io/publication/job-market-paper/</link>
-      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://elisamacchi.github.io/publication/job-market-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The State of Mental Health in European Economics Departments</title>
+      <link>https://elisamacchi.github.io/publication/econ-mental-health/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://elisamacchi.github.io/publication/econ-mental-health/</guid>
       <description></description>
     </item>
     
@@ -546,6 +554,24 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>https://elisamacchi.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://elisamacchi.github.io/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://elisamacchi.github.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://elisamacchi.github.io/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Academic: the website builder for Hugo</title>
       <link>https://elisamacchi.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -737,14 +763,6 @@ Figure 1: A fancy pie chart.
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Work Rather than Just Cash: Informal Redistribution among Employers and Workers in Kampala, Uganda.</title>
-      <link>https://elisamacchi.github.io/publication/norms-productivity-tech/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://elisamacchi.github.io/publication/norms-productivity-tech/</guid>
-      <description></description>
     </item>
     
   </channel>
