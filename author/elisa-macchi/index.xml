@@ -5,7 +5,7 @@
     <link>https://elisamacchi.github.io/author/elisa-macchi/</link>
       <atom:link href="https://elisamacchi.github.io/author/elisa-macchi/index.xml" rel="self" type="application/rss+xml" />
     <description>Elisa Macchi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://elisamacchi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Elisa Macchi</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Mental Health in European Economics Departments</title>
+      <link>https://elisamacchi.github.io/publication/econ-mental-health/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://elisamacchi.github.io/publication/econ-mental-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Work Rather than Just Cash: Informal Redistribution among Employers and Workers in Kampala, Uganda.</title>
       <link>https://elisamacchi.github.io/publication/norms-productivity-tech/</link>
-      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://elisamacchi.github.io/publication/norms-productivity-tech/</guid>
       <description></description>
     </item>
@@ -25,6 +33,14 @@
       <link>https://elisamacchi.github.io/publication/job-market-paper/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://elisamacchi.github.io/publication/job-market-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Would you hire a female mechanic? Experimental evidence from motor-mechanics managers in Uganda</title>
+      <link>https://elisamacchi.github.io/publication/girls-with-tools/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://elisamacchi.github.io/publication/girls-with-tools/</guid>
       <description></description>
     </item>
     
@@ -41,22 +57,6 @@
       <link>https://elisamacchi.github.io/ongoing/econ-mental-health/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://elisamacchi.github.io/ongoing/econ-mental-health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://elisamacchi.github.io/publication/girls-with-tools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://elisamacchi.github.io/publication/girls-with-tools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mental Health in European Economics Departments</title>
-      <link>https://elisamacchi.github.io/publication/econ-mental-health/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://elisamacchi.github.io/publication/econ-mental-health/</guid>
       <description></description>
     </item>
     
